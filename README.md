@@ -1,4 +1,4 @@
-# Chicago-Road-Crash
+# Chicago-Traffic-Crash
 The dataset used for this project consist of a decade long (2013-2023) road crashes that happened in Chicago United States of America. 
 Excel was used for data cleaning, modelling, analysis and visualization. 
 I set out to answer the following questions from the dataset
