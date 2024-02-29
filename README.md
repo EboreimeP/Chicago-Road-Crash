@@ -1,13 +1,13 @@
 # Chicago-Traffic-Crash
-Introduction
-This report presents an analysis of a decade-long (2013-2023) dataset documenting road crashes in Chicago, United States of America. The analysis aims to provide insights into the frequency, severity, financial implications, and primary causes of these crashes. The data cleaning, modeling, analysis, and visualization were conducted using Excel.
+Introduction:
+This report presents an analysis of a decade-long (2013-2023) dataset highlighting road crashes in Chicago, United States of America. The goal of the analysis is to provide insights into the frequency, severity, financial implications, and primary causes of these crashes. The data cleaning, modeling, analysis, and visualization were conducted using Excel.
 
 Questions Addressed
 Frequency of Crashes: How many crashes occurred within the study period?
 Crash Severity: How many of these crashes resulted in injuries?
 Financial Implications: What were the financial implications of these crashes?
 Primary Causes: What were the primary causes of these crashes?
-Data Analysis
+Data Analysis:
 Insights:
 Total Crashes: A total of 794,448 crashes took place between 2013 and 2023 in Chicago.
 Injuries: These crashes resulted in 150,117 injuries, with 10.5% being incapacitating and 984 resulting in fatalities.
@@ -22,7 +22,6 @@ Based on the insights gained from the analysis, the following recommendations ar
 Public Awareness Campaigns: Launch campaigns to educate drivers on safe driving practices, emphasizing the importance of yielding right-of-way, maintaining safe distances, avoiding speeding, and using turning signals appropriately.
 Enhanced Law Enforcement: Strengthen enforcement of traffic laws to deter reckless driving behaviors.
 Infrastructure Improvements: Invest in road maintenance and improvements to address defects and enhance road safety.
-Data-Driven Interventions: Continuously monitor crash data to identify trends and hotspots, allowing for targeted interventions and improvements in high-risk areas.
 Driver Education Programs: Develop and implement programs to enhance driving skills and awareness among motorists.
 Technological Solutions: Explore the integration of advanced driver-assistance systems and other technology-driven solutions to mitigate human errors and improve road safety.
 Conclusion
