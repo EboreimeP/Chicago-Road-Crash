@@ -1,19 +1,29 @@
 # Chicago-Traffic-Crash
-The dataset used for this project consist of a decade long (2013-2023) road crashes that happened in Chicago United States of America. 
-Excel was used for data cleaning, modelling, analysis and visualization. 
-I set out to answer the following questions from the dataset
-1. How many crashes occured within the study period ?
-2. How many of these crashes resulted in injuries ?
-3. What were the financial implications of these crashes ?
-4. What were the primary causes of these crashes ?
-Next, I extrated the columns necessary to answer and visualize the above questions from the dataset.
-The following insights were derived from my analysis of the dataset
-1. A total of 794448 crashes took place between 2013 and 2023 in Chicago
-2. These crashes resulted in 150117 injuries, 10.5% of which were incapacitating. Almost a thousand (984) of the total injuries was fatal.
-3. More than 60% of the total crashes accounted for over $1500 Dollars in damages.
-4. The road crashes had little to do with the prevailing weather condition as at the time of crash nor the state of the road.
-5. Analysis showed that 78.62% of the crashes occured during clear weather conditions.
-6.  Also, more than 640000 representing 80.65% of the crashes occured on defect-free roads.
-7.  Furthermore, more than 64% of the crashes occured in daylight. Although another 22% of the crashes occured in darkness but in a well lit road.
-Further investigations reveal that most of the crashes were primarily due to human factors such as falling to yield right-of-way, following too closely,
-improper overtaking, over speeding, improper backing, improper lane usage, lack of driving skills, improper turning signal. 
+Introduction
+This report presents an analysis of a decade-long (2013-2023) dataset documenting road crashes in Chicago, United States of America. The analysis aims to provide insights into the frequency, severity, financial implications, and primary causes of these crashes. The data cleaning, modeling, analysis, and visualization were conducted using Excel.
+
+Questions Addressed
+Frequency of Crashes: How many crashes occurred within the study period?
+Crash Severity: How many of these crashes resulted in injuries?
+Financial Implications: What were the financial implications of these crashes?
+Primary Causes: What were the primary causes of these crashes?
+Data Analysis
+Insights:
+Total Crashes: A total of 794,448 crashes took place between 2013 and 2023 in Chicago.
+Injuries: These crashes resulted in 150,117 injuries, with 10.5% being incapacitating and 984 resulting in fatalities.
+Financial Implications: More than 60% of crashes caused damages exceeding $1500.
+Weather Conditions: Weather conditions at the time of the crash or road state had little correlation with crash occurrence. 78.62% of crashes occurred during clear weather.
+Road Condition: Over 80% of crashes occurred on defect-free roads.
+Time of Day: More than 64% of crashes occurred during daylight, with an additional 22% occurring in well-lit conditions during darkness.
+Primary Causes: Most crashes were due to human factors such as failing to yield right-of-way, following too closely, improper overtaking, speeding, improper backing, improper lane usage, lack of driving skills, and improper turning signals.
+Recommendations
+Based on the insights gained from the analysis, the following recommendations are proposed to address the issue of road crashes in Chicago:
+
+Public Awareness Campaigns: Launch campaigns to educate drivers on safe driving practices, emphasizing the importance of yielding right-of-way, maintaining safe distances, avoiding speeding, and using turning signals appropriately.
+Enhanced Law Enforcement: Strengthen enforcement of traffic laws to deter reckless driving behaviors.
+Infrastructure Improvements: Invest in road maintenance and improvements to address defects and enhance road safety.
+Data-Driven Interventions: Continuously monitor crash data to identify trends and hotspots, allowing for targeted interventions and improvements in high-risk areas.
+Driver Education Programs: Develop and implement programs to enhance driving skills and awareness among motorists.
+Technological Solutions: Explore the integration of advanced driver-assistance systems and other technology-driven solutions to mitigate human errors and improve road safety.
+Conclusion
+The analysis highlights the significant impact of road crashes in Chicago, emphasizing the need for comprehensive interventions targeting both behavioral and infrastructural aspects of road safety. By implementing the proposed recommendations, stakeholders can work towards reducing the frequency and severity of crashes, ultimately enhancing road safety and saving lives.
